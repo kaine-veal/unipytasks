@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-pythontasks/__init__.py
-pythontasks.egg-info/PKG-INFO
-pythontasks.egg-info/SOURCES.txt
-pythontasks.egg-info/dependency_links.txt
-pythontasks.egg-info/top_level.txt
