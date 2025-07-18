@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pythontasks
+Version: 0.0.1
+Summary: Toolkit that manipulates DNA (and other) sequences
+Author-email: VariantValidator Contributors <admin@variantvalidator.org>
+Keywords: bioinformatics,DNA Sequence
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3.12.10
+Requires-Python: >=3.12.10
+Description-Content-Type: text/markdown
+
+# unipytasks
+Repository to practice project setup and to work on python tasks in preparation for software engineering module 2025
