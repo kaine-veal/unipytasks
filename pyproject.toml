@@ -3,7 +3,7 @@ name = "pythontasks"
 version = "0.0.1"
 description = "Toolkit that manipulates DNA (and other) sequences"
 license = {file = "LICENSE.txt"}
-authors = [{name = "VariantValidator Contributors", email = "admin@variantvalidator.org"}]
+authors = [{name = "test", email = "admin@test.org"}]
 readme = "README.md"
 keywords = [
     "bioinformatics",
