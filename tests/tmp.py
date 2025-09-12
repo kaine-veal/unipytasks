@@ -1,4 +1,4 @@
-from pythontasks.modules.reverse_complement import reverse_complement_dna
+from pythontasks.modules.reverse_complement import reverse_complement_dna 
 
 input = "aggagtaagcccttgcaactggaaatacacccattg"
 expected_reverse_complement = "caatgggtgtatttccagttgcaagggcttactcct"
