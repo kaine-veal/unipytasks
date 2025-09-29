@@ -2,3 +2,2331 @@
 2025-09-05 12:33:05,718 [INFO] reverse_complement_dna: output length=36
 2025-09-05 12:38:32,101 [INFO] reverse_complement_dna: input length=36
 2025-09-05 12:38:32,101 [INFO] reverse_complement_dna: output length=36
+2025-09-05 15:21:11,375 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-05 15:24:54,729 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-05 15:45:05,006 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-11 16:12:17,504 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-19 10:17:55,642 [ERROR] dna sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:18:12,663 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:19:43,999 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:20:10,748 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:21:03,173 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:21:54,815 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:22:02,141 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:23:45,414 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:24:05,393 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:38:03,447 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-19 10:43:19,354 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-19 10:43:29,162 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-19 10:43:36,803 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:44:33,116 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-19 10:44:40,916 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-19 10:44:57,940 [WARNING] Empty DNA sequence
+2025-09-19 13:34:33,272 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-19 15:32:39,215 [WARNING] Sequence has 1 leftover base(s) that do not form a complete dinucleotide
+2025-09-19 15:33:20,836 [WARNING] Sequence has 1 leftover base(s) that do not form a complete dinucleotide
+2025-09-19 15:33:47,951 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-19 15:33:47,951 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-19 15:35:18,401 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-19 15:35:18,404 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-19 15:35:43,931 [WARNING] Sequence has 2 leftover base(s) that does not form a complete trinucleotide
+2025-09-19 15:53:08,506 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-19 15:53:08,507 [INFO] The mononucleotide count of the given dna sequence is g: 8
+2025-09-19 15:53:08,507 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-19 15:53:08,508 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-19 15:53:08,508 [INFO] The dinucleotide count of the given dna sequence is ag: 3
+2025-09-19 15:53:08,508 [INFO] The dinucleotide count of the given dna sequence is gg: 2
+2025-09-19 15:53:08,509 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-19 15:53:08,509 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-19 15:53:08,509 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-19 15:53:08,509 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-19 15:53:08,510 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-19 15:53:08,510 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-19 15:53:08,510 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-19 15:53:08,511 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-19 15:53:08,511 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-19 15:53:08,511 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-19 15:53:08,511 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-19 15:53:08,512 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-19 15:53:08,512 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-19 15:53:08,512 [INFO] The trinucleotide count of the given dna sequence is agg: 1
+2025-09-19 15:53:08,512 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-19 15:53:08,513 [INFO] The trinucleotide count of the given dna sequence is gag: 1
+2025-09-19 15:53:08,513 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-19 15:53:08,513 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-19 15:53:08,514 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-19 15:53:08,514 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-19 15:53:08,514 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-19 15:53:08,514 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-19 15:53:08,515 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-19 15:53:08,515 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-19 15:53:08,515 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-19 15:53:08,515 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-19 15:53:08,516 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-19 15:53:08,516 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-19 15:53:08,516 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-19 15:53:08,517 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-19 15:53:08,517 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-19 15:53:08,517 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-19 15:53:08,517 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-19 15:53:08,518 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-19 15:53:08,518 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-19 15:53:08,518 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-19 15:53:08,518 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-19 15:53:08,519 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-19 15:53:08,519 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-19 15:53:08,519 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-19 15:53:08,519 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-19 15:53:08,520 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-19 15:53:08,520 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-19 15:53:08,520 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-19 15:53:08,520 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-19 15:53:08,521 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-19 15:55:16,642 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-19 15:55:16,643 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-19 15:55:16,643 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-19 15:55:16,643 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-19 15:55:16,644 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-19 15:55:16,644 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-19 15:55:16,644 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-19 15:55:16,644 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-19 15:55:16,644 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-19 15:55:16,645 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-19 15:55:16,645 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-19 15:55:16,645 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-19 15:55:16,645 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-19 15:55:16,646 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-19 15:55:16,646 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-19 15:55:16,646 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-19 15:55:16,646 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-19 15:55:16,646 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-19 15:55:16,647 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-19 15:55:16,647 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-19 15:55:16,648 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-19 15:55:16,648 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-19 15:55:16,648 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-19 15:55:16,648 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-19 15:55:16,649 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-19 15:55:16,649 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-19 15:55:16,649 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-19 15:55:16,649 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-19 15:55:16,650 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-19 15:55:16,651 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-19 15:55:16,651 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-19 15:55:16,651 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-19 15:55:16,651 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-19 15:55:16,651 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-19 15:55:16,652 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-19 15:55:16,653 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-19 15:55:16,653 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 09:22:48,619 [INFO] dna_complement: input length 37
+2025-09-26 09:22:48,622 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:22:48,622 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:26:50,702 [INFO] dna_complement: input length 37
+2025-09-26 09:26:50,703 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:26:50,703 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:28:34,165 [INFO] dna_complement: input length 37
+2025-09-26 09:28:34,166 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:28:34,166 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:29:38,290 [INFO] dna_complement: input length 37
+2025-09-26 09:29:38,290 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:29:38,290 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:29:44,366 [INFO] dna_complement: input length 37
+2025-09-26 09:29:44,366 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:29:44,366 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:31:40,069 [INFO] dna_complement: input length 37
+2025-09-26 09:31:40,070 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:31:40,070 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:35:02,013 [INFO] dna_complement: input length 37
+2025-09-26 09:35:02,014 [INFO] reverse_dna: stripped whitespace, length=37
+2025-09-26 09:35:02,014 [INFO] reverse_complement_dna: output length=37
+2025-09-26 09:36:30,137 [INFO] dna_complement: input length 36
+2025-09-26 09:36:30,137 [INFO] reverse_dna: stripped whitespace, length=36
+2025-09-26 09:36:30,138 [INFO] reverse_complement_dna: output length=36
+2025-09-26 09:59:44,782 [INFO] dna_complement: input length 36
+2025-09-26 09:59:44,782 [INFO] reverse_dna: stripped whitespace, length=36
+2025-09-26 09:59:44,782 [INFO] reverse_complement_dna: output length=36
+2025-09-26 14:09:17,373 [INFO] dna_complement: input length 36
+2025-09-26 14:09:17,374 [INFO] reverse_dna: stripped whitespace, length=36
+2025-09-26 14:09:17,374 [INFO] reverse_complement_dna: output length=36
+2025-09-26 14:09:40,929 [INFO] dna_complement: input length 36
+2025-09-26 14:09:40,930 [INFO] reverse_dna: stripped whitespace, length=36
+2025-09-26 14:09:40,930 [INFO] reverse_complement_dna: output length=36
+2025-09-26 14:13:15,022 [INFO] dna_complement: input length 78
+2025-09-26 14:13:15,023 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 14:13:15,023 [INFO] reverse_complement_dna: output length=78
+2025-09-26 14:15:32,181 [INFO] dna_complement: input length 78
+2025-09-26 14:15:32,182 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 14:15:32,182 [INFO] reverse_complement_dna: output length=78
+2025-09-26 14:27:52,288 [INFO] dna_complement: input length 78
+2025-09-26 14:27:52,288 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 14:27:52,288 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:11:30,966 [INFO] dna_complement: input length 4
+2025-09-26 15:11:30,967 [INFO] dna_complement: input length 6
+2025-09-26 15:11:30,968 [INFO] dna_complement: input length 4
+2025-09-26 15:11:30,970 [INFO] dna_complement: input length 0
+2025-09-26 15:11:30,970 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:11:30,971 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:11:30,972 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:11:30,972 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:11:30,973 [INFO] dna_complement: input length 4
+2025-09-26 15:11:30,974 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:11:30,974 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:11:30,975 [INFO] dna_complement: input length 4
+2025-09-26 15:11:30,975 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:11:30,975 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:11:30,976 [INFO] dna_complement: input length 6
+2025-09-26 15:11:30,976 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:11:30,976 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:11:30,977 [INFO] dna_complement: input length 0
+2025-09-26 15:11:30,977 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:11:30,977 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:11:30,977 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:11:30,977 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:13:44,947 [INFO] dna_complement: input length 4
+2025-09-26 15:13:44,957 [INFO] dna_complement: input length 6
+2025-09-26 15:13:44,957 [INFO] dna_complement: input length 4
+2025-09-26 15:13:44,962 [INFO] dna_complement: input length 0
+2025-09-26 15:13:44,963 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:13:44,964 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:13:44,966 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:13:44,967 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:13:44,968 [INFO] dna_complement: input length 4
+2025-09-26 15:13:44,968 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:13:44,968 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:13:44,968 [INFO] dna_complement: input length 4
+2025-09-26 15:13:44,968 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:13:44,968 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:13:44,968 [INFO] dna_complement: input length 6
+2025-09-26 15:13:44,968 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:13:44,968 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:13:44,975 [INFO] dna_complement: input length 0
+2025-09-26 15:13:44,975 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:13:44,975 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:13:44,975 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:13:44,975 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:17:22,506 [INFO] dna_complement: input length 4
+2025-09-26 15:17:22,545 [INFO] dna_complement: input length 6
+2025-09-26 15:17:22,545 [INFO] dna_complement: input length 4
+2025-09-26 15:17:22,545 [INFO] dna_complement: input length 0
+2025-09-26 15:17:22,545 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:17:22,545 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:17:22,560 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:17:22,562 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:17:22,563 [INFO] dna_complement: input length 4
+2025-09-26 15:17:22,563 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:17:22,563 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:17:22,565 [INFO] dna_complement: input length 4
+2025-09-26 15:17:22,565 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:17:22,565 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:17:22,566 [INFO] dna_complement: input length 6
+2025-09-26 15:17:22,566 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:17:22,566 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:17:22,568 [INFO] dna_complement: input length 0
+2025-09-26 15:17:22,568 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:17:22,568 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:17:22,568 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:17:22,568 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:18:11,933 [INFO] dna_complement: input length 4
+2025-09-26 15:18:11,936 [INFO] dna_complement: input length 4
+2025-09-26 15:18:11,937 [INFO] dna_complement: input length 0
+2025-09-26 15:18:11,937 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:18:11,939 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:11,940 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:11,942 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:18:11,944 [INFO] dna_complement: input length 4
+2025-09-26 15:18:11,944 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:11,944 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:18:11,946 [INFO] dna_complement: input length 4
+2025-09-26 15:18:11,946 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:11,946 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:18:11,949 [INFO] dna_complement: input length 6
+2025-09-26 15:18:11,949 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:18:11,949 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:18:11,951 [INFO] dna_complement: input length 0
+2025-09-26 15:18:11,951 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:18:11,951 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:18:11,951 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:18:11,951 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:18:42,136 [INFO] dna_complement: input length 4
+2025-09-26 15:18:42,139 [INFO] dna_complement: input length 0
+2025-09-26 15:18:42,140 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:18:42,141 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:42,143 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:42,144 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:18:42,146 [INFO] dna_complement: input length 4
+2025-09-26 15:18:42,146 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:42,146 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:18:42,146 [INFO] dna_complement: input length 4
+2025-09-26 15:18:42,146 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:18:42,146 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:18:42,146 [INFO] dna_complement: input length 6
+2025-09-26 15:18:42,146 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:18:42,146 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:18:42,146 [INFO] dna_complement: input length 0
+2025-09-26 15:18:42,146 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:18:42,146 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:18:42,146 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:18:42,146 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:19:22,929 [INFO] dna_complement: input length 4
+2025-09-26 15:19:22,930 [INFO] dna_complement: input length 4
+2025-09-26 15:19:22,931 [INFO] dna_complement: input length 0
+2025-09-26 15:19:22,931 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:19:22,932 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:19:22,933 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:19:22,935 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:19:22,936 [INFO] dna_complement: input length 4
+2025-09-26 15:19:22,936 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:19:22,936 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:19:22,937 [INFO] dna_complement: input length 4
+2025-09-26 15:19:22,937 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:19:22,937 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:19:22,938 [INFO] dna_complement: input length 6
+2025-09-26 15:19:22,939 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:19:22,939 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:19:22,940 [INFO] dna_complement: input length 0
+2025-09-26 15:19:22,940 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:19:22,940 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:19:22,940 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:19:22,940 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:20:15,735 [INFO] dna_complement: input length 4
+2025-09-26 15:20:15,735 [INFO] dna_complement: input length 4
+2025-09-26 15:20:15,735 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:20:15,735 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:20:15,749 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:20:15,751 [INFO] dna_complement: input length 4
+2025-09-26 15:20:15,751 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:20:15,751 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:20:15,753 [INFO] dna_complement: input length 4
+2025-09-26 15:20:15,753 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:20:15,753 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:20:15,755 [INFO] dna_complement: input length 6
+2025-09-26 15:20:15,755 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:20:15,755 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:20:15,757 [INFO] dna_complement: input length 0
+2025-09-26 15:20:15,757 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:20:15,757 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:20:15,758 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:20:15,758 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:23:27,442 [INFO] dna_complement: input length 4
+2025-09-26 15:23:27,445 [INFO] dna_complement: input length 4
+2025-09-26 15:23:27,446 [INFO] dna_complement: input length 0
+2025-09-26 15:23:27,447 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:23:27,448 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:27,449 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:23:27,451 [INFO] dna_complement: input length 4
+2025-09-26 15:23:27,451 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:27,451 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:23:27,453 [INFO] dna_complement: input length 4
+2025-09-26 15:23:27,453 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:27,453 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:23:27,454 [INFO] dna_complement: input length 6
+2025-09-26 15:23:27,455 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:23:27,455 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:23:27,457 [INFO] dna_complement: input length 0
+2025-09-26 15:23:27,457 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:23:27,457 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:23:27,457 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:23:27,457 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:23:47,834 [INFO] dna_complement: input length 4
+2025-09-26 15:23:47,834 [INFO] dna_complement: input length 4
+2025-09-26 15:23:47,839 [INFO] dna_complement: input length 0
+2025-09-26 15:23:47,839 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:23:47,841 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:47,842 [INFO] dna_complement: input length 4
+2025-09-26 15:23:47,842 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:47,842 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:23:47,843 [INFO] dna_complement: input length 4
+2025-09-26 15:23:47,843 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:23:47,843 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:23:47,843 [INFO] dna_complement: input length 6
+2025-09-26 15:23:47,843 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:23:47,843 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:23:47,843 [INFO] dna_complement: input length 0
+2025-09-26 15:23:47,843 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:23:47,843 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:23:47,843 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:23:47,843 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:24:55,454 [INFO] dna_complement: input length 4
+2025-09-26 15:24:55,457 [INFO] dna_complement: input length 4
+2025-09-26 15:24:55,459 [INFO] dna_complement: input length 0
+2025-09-26 15:24:55,459 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:24:55,460 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:24:55,461 [INFO] dna_complement: input length 4
+2025-09-26 15:24:55,463 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:24:55,463 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:29:02,158 [INFO] dna_complement: input length 78
+2025-09-26 15:29:02,158 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:29:02,158 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:29:02,162 [INFO] dna_complement: input length 3
+2025-09-26 15:29:02,162 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:29:02,162 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:29:02,169 [INFO] dna_complement: input length 0
+2025-09-26 15:29:02,169 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:29:02,169 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:29:02,169 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:29:02,169 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:29:02,171 [INFO] dna_complement: input length 2
+2025-09-26 15:29:02,171 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:29:02,171 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:29:02,172 [INFO] dna_complement: input length 3
+2025-09-26 15:29:02,172 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:29:02,173 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:29:02,174 [INFO] dna_complement: input length 6
+2025-09-26 15:29:02,174 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:29:02,174 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:29:02,177 [INFO] dna_complement: input length 4
+2025-09-26 15:29:02,178 [INFO] dna_complement: input length 4
+2025-09-26 15:29:02,179 [INFO] dna_complement: input length 0
+2025-09-26 15:29:02,179 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:29:02,180 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:29:02,181 [INFO] dna_complement: input length 4
+2025-09-26 15:29:02,181 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:29:02,181 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:29:05,991 [INFO] dna_complement: input length 78
+2025-09-26 15:29:05,992 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:29:05,995 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:29:06,003 [INFO] dna_complement: input length 3
+2025-09-26 15:29:06,003 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:29:06,003 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:29:06,006 [INFO] dna_complement: input length 0
+2025-09-26 15:29:06,006 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:29:06,007 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:29:06,007 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:29:06,007 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:29:06,009 [INFO] dna_complement: input length 2
+2025-09-26 15:29:06,009 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:29:06,009 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:29:06,011 [INFO] dna_complement: input length 3
+2025-09-26 15:29:06,011 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:29:06,011 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:29:06,013 [INFO] dna_complement: input length 6
+2025-09-26 15:29:06,013 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:29:06,013 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:29:06,015 [INFO] dna_complement: input length 4
+2025-09-26 15:29:06,017 [INFO] dna_complement: input length 4
+2025-09-26 15:29:06,019 [INFO] dna_complement: input length 0
+2025-09-26 15:29:06,019 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:29:06,021 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:29:06,022 [INFO] dna_complement: input length 4
+2025-09-26 15:29:06,023 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:29:06,023 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:44:21,760 [INFO] dna_complement: input length 78
+2025-09-26 15:44:21,760 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:44:21,763 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:44:21,767 [INFO] dna_complement: input length 3
+2025-09-26 15:44:21,767 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:21,767 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:21,769 [INFO] dna_complement: input length 0
+2025-09-26 15:44:21,769 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:21,769 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:44:21,769 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:44:21,769 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:44:21,770 [INFO] dna_complement: input length 2
+2025-09-26 15:44:21,770 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:44:21,771 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:44:21,771 [INFO] dna_complement: input length 3
+2025-09-26 15:44:21,771 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:21,771 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:21,771 [INFO] dna_complement: input length 6
+2025-09-26 15:44:21,771 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:44:21,771 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:44:21,771 [INFO] dna_complement: input length 4
+2025-09-26 15:44:21,778 [INFO] dna_complement: input length 4
+2025-09-26 15:44:21,779 [INFO] dna_complement: input length 0
+2025-09-26 15:44:21,779 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:21,780 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:21,781 [INFO] dna_complement: input length 4
+2025-09-26 15:44:21,781 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:21,781 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:44:25,276 [INFO] dna_complement: input length 78
+2025-09-26 15:44:25,276 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:44:25,276 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:44:25,290 [INFO] dna_complement: input length 3
+2025-09-26 15:44:25,290 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:25,290 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:25,292 [INFO] dna_complement: input length 0
+2025-09-26 15:44:25,292 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:25,292 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:44:25,292 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:44:25,292 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:44:25,294 [INFO] dna_complement: input length 2
+2025-09-26 15:44:25,294 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:44:25,294 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:44:25,294 [INFO] dna_complement: input length 3
+2025-09-26 15:44:25,294 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:25,294 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:25,298 [INFO] dna_complement: input length 6
+2025-09-26 15:44:25,298 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:44:25,298 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:44:25,298 [INFO] dna_complement: input length 4
+2025-09-26 15:44:25,304 [INFO] dna_complement: input length 4
+2025-09-26 15:44:25,306 [INFO] dna_complement: input length 0
+2025-09-26 15:44:25,306 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:25,308 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:25,308 [INFO] dna_complement: input length 4
+2025-09-26 15:44:25,308 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:25,308 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:44:38,639 [INFO] dna_complement: input length 78
+2025-09-26 15:44:38,639 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:44:38,639 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:44:38,639 [INFO] dna_complement: input length 3
+2025-09-26 15:44:38,639 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:38,639 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:38,690 [INFO] dna_complement: input length 0
+2025-09-26 15:44:38,690 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:38,690 [INFO] reverse_dna: stripped whitespace, length=0
+2025-09-26 15:44:38,690 [INFO] reverse_complement_dna: output length=0
+2025-09-26 15:44:38,690 [ERROR] reverse_complement_dna: failed to compute reverse complement
+2025-09-26 15:44:38,690 [INFO] dna_complement: input length 2
+2025-09-26 15:44:38,690 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:44:38,690 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:44:38,690 [INFO] dna_complement: input length 3
+2025-09-26 15:44:38,690 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:44:38,690 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:44:38,690 [INFO] dna_complement: input length 6
+2025-09-26 15:44:38,690 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:44:38,690 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:44:38,702 [INFO] dna_complement: input length 4
+2025-09-26 15:44:38,704 [INFO] dna_complement: input length 4
+2025-09-26 15:44:38,706 [INFO] dna_complement: input length 0
+2025-09-26 15:44:38,706 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:44:38,707 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:38,708 [INFO] dna_complement: input length 4
+2025-09-26 15:44:38,708 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:44:38,708 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:45:27,661 [INFO] dna_complement: input length 78
+2025-09-26 15:45:27,662 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:45:27,663 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 3
+2025-09-26 15:45:27,667 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:45:27,667 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 1
+2025-09-26 15:45:27,667 [INFO] reverse_dna: stripped whitespace, length=1
+2025-09-26 15:45:27,667 [INFO] reverse_complement_dna: output length=1
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 2
+2025-09-26 15:45:27,667 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:45:27,667 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 3
+2025-09-26 15:45:27,667 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:45:27,667 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 6
+2025-09-26 15:45:27,667 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:45:27,667 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:45:27,667 [INFO] dna_complement: input length 4
+2025-09-26 15:45:27,678 [INFO] dna_complement: input length 4
+2025-09-26 15:45:27,681 [INFO] dna_complement: input length 0
+2025-09-26 15:45:27,681 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:45:27,681 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:45:27,683 [INFO] dna_complement: input length 4
+2025-09-26 15:45:27,684 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:45:27,684 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:46:23,156 [INFO] dna_complement: input length 78
+2025-09-26 15:46:23,156 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:46:23,158 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 3
+2025-09-26 15:46:23,162 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:46:23,162 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 2
+2025-09-26 15:46:23,162 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:46:23,162 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 3
+2025-09-26 15:46:23,162 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:46:23,162 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 6
+2025-09-26 15:46:23,162 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:46:23,162 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 4
+2025-09-26 15:46:23,162 [INFO] dna_complement: input length 4
+2025-09-26 15:46:23,173 [INFO] dna_complement: input length 0
+2025-09-26 15:46:23,173 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:46:23,174 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:46:23,175 [INFO] dna_complement: input length 4
+2025-09-26 15:46:23,175 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:46:23,175 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:46:26,323 [INFO] dna_complement: input length 78
+2025-09-26 15:46:26,323 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:46:26,323 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:46:26,346 [INFO] dna_complement: input length 3
+2025-09-26 15:46:26,346 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:46:26,346 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:46:26,348 [INFO] dna_complement: input length 2
+2025-09-26 15:46:26,348 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:46:26,348 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:46:26,349 [INFO] dna_complement: input length 3
+2025-09-26 15:46:26,350 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:46:26,350 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:46:26,352 [INFO] dna_complement: input length 6
+2025-09-26 15:46:26,352 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:46:26,352 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:46:26,355 [INFO] dna_complement: input length 4
+2025-09-26 15:46:26,357 [INFO] dna_complement: input length 4
+2025-09-26 15:46:26,359 [INFO] dna_complement: input length 0
+2025-09-26 15:46:26,360 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:46:26,361 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:46:26,363 [INFO] dna_complement: input length 4
+2025-09-26 15:46:26,363 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:46:26,364 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:01,766 [INFO] dna_complement: input length 78
+2025-09-26 15:47:01,767 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:47:01,768 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:47:01,773 [INFO] dna_complement: input length 3
+2025-09-26 15:47:01,773 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:01,773 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:01,774 [INFO] dna_complement: input length 4
+2025-09-26 15:47:01,775 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:01,775 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 3
+2025-09-26 15:47:01,823 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:01,823 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 6
+2025-09-26 15:47:01,823 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:47:01,823 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 4
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 4
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 0
+2025-09-26 15:47:01,823 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:47:01,823 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:01,823 [INFO] dna_complement: input length 4
+2025-09-26 15:47:01,823 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:01,823 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:11,296 [INFO] dna_complement: input length 78
+2025-09-26 15:47:11,296 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:47:11,298 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:47:11,302 [INFO] dna_complement: input length 3
+2025-09-26 15:47:11,303 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:11,303 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:11,304 [INFO] dna_complement: input length 3
+2025-09-26 15:47:11,304 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:11,304 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:11,352 [INFO] dna_complement: input length 3
+2025-09-26 15:47:11,352 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:11,352 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:11,354 [INFO] dna_complement: input length 6
+2025-09-26 15:47:11,354 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:47:11,354 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:47:11,356 [INFO] dna_complement: input length 4
+2025-09-26 15:47:11,357 [INFO] dna_complement: input length 4
+2025-09-26 15:47:11,359 [INFO] dna_complement: input length 0
+2025-09-26 15:47:11,359 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:47:11,360 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:11,362 [INFO] dna_complement: input length 4
+2025-09-26 15:47:11,362 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:11,362 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:16,962 [INFO] dna_complement: input length 78
+2025-09-26 15:47:16,963 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:47:16,963 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:47:16,968 [INFO] dna_complement: input length 3
+2025-09-26 15:47:16,968 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:16,968 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:16,969 [INFO] dna_complement: input length 2
+2025-09-26 15:47:16,969 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:47:16,970 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:47:16,971 [INFO] dna_complement: input length 3
+2025-09-26 15:47:16,971 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:16,971 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:16,972 [INFO] dna_complement: input length 6
+2025-09-26 15:47:16,972 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:47:16,972 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:47:16,975 [INFO] dna_complement: input length 4
+2025-09-26 15:47:16,976 [INFO] dna_complement: input length 4
+2025-09-26 15:47:16,978 [INFO] dna_complement: input length 0
+2025-09-26 15:47:16,978 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:47:16,979 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:16,980 [INFO] dna_complement: input length 4
+2025-09-26 15:47:16,980 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:16,980 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:31,473 [INFO] dna_complement: input length 78
+2025-09-26 15:47:31,474 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:47:31,476 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:47:31,484 [INFO] dna_complement: input length 3
+2025-09-26 15:47:31,484 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:31,484 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:31,484 [INFO] dna_complement: input length 2
+2025-09-26 15:47:31,484 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:47:31,484 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:47:31,484 [INFO] dna_complement: input length 6
+2025-09-26 15:47:31,484 [INFO] reverse_dna: stripped whitespace, length=6
+2025-09-26 15:47:31,484 [INFO] reverse_complement_dna: output length=6
+2025-09-26 15:47:31,484 [INFO] dna_complement: input length 4
+2025-09-26 15:47:31,484 [INFO] dna_complement: input length 4
+2025-09-26 15:47:31,497 [INFO] dna_complement: input length 0
+2025-09-26 15:47:31,497 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:47:31,498 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:31,500 [INFO] dna_complement: input length 4
+2025-09-26 15:47:31,501 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:31,501 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:47:44,053 [INFO] dna_complement: input length 78
+2025-09-26 15:47:44,054 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:47:44,055 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:47:44,062 [INFO] dna_complement: input length 3
+2025-09-26 15:47:44,064 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:47:44,064 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:47:44,066 [INFO] dna_complement: input length 2
+2025-09-26 15:47:44,066 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:47:44,066 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:47:44,069 [INFO] dna_complement: input length 4
+2025-09-26 15:47:44,071 [INFO] dna_complement: input length 4
+2025-09-26 15:47:44,072 [INFO] dna_complement: input length 0
+2025-09-26 15:47:44,072 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:47:44,074 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:44,074 [INFO] dna_complement: input length 4
+2025-09-26 15:47:44,074 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:47:44,074 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:50:05,091 [INFO] dna_complement: input length 78
+2025-09-26 15:50:05,091 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:50:05,093 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:50:05,142 [INFO] dna_complement: input length 3
+2025-09-26 15:50:05,142 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:50:05,142 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:50:05,152 [INFO] dna_complement: input length 2
+2025-09-26 15:50:05,152 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:50:05,152 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:50:05,152 [INFO] dna_complement: input length 4
+2025-09-26 15:50:05,152 [INFO] dna_complement: input length 4
+2025-09-26 15:50:05,157 [INFO] dna_complement: input length 0
+2025-09-26 15:50:05,157 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:50:05,158 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:50:05,159 [INFO] dna_complement: input length 4
+2025-09-26 15:50:05,159 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:50:05,159 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:50:58,412 [INFO] dna_complement: input length 78
+2025-09-26 15:50:58,412 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:50:58,415 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:50:58,421 [INFO] dna_complement: input length 3
+2025-09-26 15:50:58,421 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:50:58,421 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:50:58,422 [INFO] dna_complement: input length 2
+2025-09-26 15:50:58,422 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:50:58,422 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:50:58,422 [INFO] dna_complement: input length 4
+2025-09-26 15:50:58,422 [INFO] dna_complement: input length 4
+2025-09-26 15:50:58,422 [INFO] dna_complement: input length 0
+2025-09-26 15:50:58,422 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:50:58,429 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:50:58,430 [INFO] dna_complement: input length 4
+2025-09-26 15:50:58,430 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:50:58,430 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:51:00,882 [INFO] dna_complement: input length 78
+2025-09-26 15:51:00,882 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:51:00,882 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:51:00,904 [INFO] dna_complement: input length 3
+2025-09-26 15:51:00,904 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:51:00,904 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:51:00,904 [INFO] dna_complement: input length 2
+2025-09-26 15:51:00,904 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:51:00,904 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:51:00,904 [INFO] dna_complement: input length 4
+2025-09-26 15:51:00,904 [INFO] dna_complement: input length 4
+2025-09-26 15:51:00,910 [INFO] dna_complement: input length 0
+2025-09-26 15:51:00,910 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:51:00,912 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:51:00,912 [INFO] dna_complement: input length 4
+2025-09-26 15:51:00,912 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:51:00,912 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:57:07,082 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 15:57:07,083 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 15:57:07,083 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 15:57:07,083 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 15:57:07,083 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 15:57:07,083 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 15:57:07,083 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 15:57:07,084 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 15:57:07,084 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 15:57:07,084 [INFO] dna_complement: input length 78
+2025-09-26 15:57:07,084 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:57:07,084 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:57:07,084 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:07,084 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:07,084 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 15:57:07,084 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 15:57:07,084 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 15:57:07,096 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:57:07,096 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 15:57:07,096 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 15:57:07,096 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 15:57:07,096 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:57:07,148 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:07,148 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:07,148 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:07,148 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 15:57:07,148 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 15:57:07,148 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 15:57:07,148 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 15:57:07,148 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:07,148 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:07,148 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 15:57:07,148 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:07,148 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 15:57:07,148 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:57:07,148 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 15:57:07,148 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 15:57:07,148 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:57:07,164 [INFO] dna_complement: input length 3
+2025-09-26 15:57:07,164 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:57:07,164 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:57:07,166 [INFO] dna_complement: input length 2
+2025-09-26 15:57:07,167 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:57:07,167 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:57:07,167 [INFO] dna_complement: input length 4
+2025-09-26 15:57:07,167 [INFO] dna_complement: input length 4
+2025-09-26 15:57:07,172 [INFO] dna_complement: input length 0
+2025-09-26 15:57:07,172 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:57:07,173 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:57:07,174 [INFO] dna_complement: input length 4
+2025-09-26 15:57:07,174 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:57:07,174 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:57:53,360 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 15:57:53,361 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 15:57:53,361 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 15:57:53,361 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 15:57:53,361 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 15:57:53,362 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 15:57:53,362 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 15:57:53,363 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 15:57:53,364 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 15:57:53,364 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 15:57:53,364 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 15:57:53,365 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 15:57:53,366 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 15:57:53,366 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 15:57:53,366 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 15:57:53,366 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 15:57:53,366 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 15:57:53,371 [INFO] dna_complement: input length 78
+2025-09-26 15:57:53,371 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:57:53,371 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:57:53,376 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:53,377 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:53,378 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 15:57:53,378 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 15:57:53,378 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:53,378 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 15:57:53,379 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 15:57:53,379 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:57:53,379 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 15:57:53,379 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 15:57:53,379 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 15:57:53,380 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:57:53,381 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:53,381 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:53,381 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:53,381 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 15:57:53,381 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 15:57:53,381 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 15:57:53,382 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 15:57:53,431 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:57:53,431 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:57:53,431 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 15:57:53,431 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:57:53,431 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 15:57:53,432 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:57:53,432 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 15:57:53,432 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 15:57:53,432 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:57:53,437 [INFO] dna_complement: input length 3
+2025-09-26 15:57:53,438 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:57:53,438 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:57:53,439 [INFO] dna_complement: input length 2
+2025-09-26 15:57:53,439 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:57:53,439 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:57:53,441 [INFO] dna_complement: input length 4
+2025-09-26 15:57:53,443 [INFO] dna_complement: input length 4
+2025-09-26 15:57:53,445 [INFO] dna_complement: input length 0
+2025-09-26 15:57:53,445 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:57:53,446 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:57:53,449 [INFO] dna_complement: input length 4
+2025-09-26 15:57:53,449 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:57:53,449 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:58:30,925 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 15:58:30,925 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 15:58:30,925 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 15:58:30,925 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 15:58:30,925 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 15:58:30,925 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 15:58:30,925 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 15:58:30,927 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 15:58:30,927 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 15:58:30,927 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 15:58:30,927 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 15:58:30,927 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 15:58:30,927 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 15:58:30,928 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 15:58:30,929 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 15:58:30,934 [INFO] dna_complement: input length 78
+2025-09-26 15:58:30,934 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:58:30,934 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:58:30,938 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:30,939 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:30,939 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 15:58:30,939 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 15:58:30,940 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:30,940 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 15:58:30,940 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 15:58:30,940 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:58:30,940 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 15:58:30,940 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 15:58:30,940 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 15:58:30,940 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:58:30,942 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:30,942 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:30,942 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:30,943 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 15:58:30,943 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 15:58:30,943 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 15:58:30,943 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 15:58:30,945 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:30,945 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:30,945 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 15:58:30,945 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:30,945 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 15:58:30,945 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:58:30,945 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 15:58:30,945 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 15:58:30,945 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:58:30,950 [INFO] dna_complement: input length 3
+2025-09-26 15:58:30,950 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:58:30,950 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:58:30,951 [INFO] dna_complement: input length 2
+2025-09-26 15:58:30,951 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:58:30,951 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:58:30,953 [INFO] dna_complement: input length 4
+2025-09-26 15:58:30,955 [INFO] dna_complement: input length 4
+2025-09-26 15:58:30,957 [INFO] dna_complement: input length 0
+2025-09-26 15:58:30,957 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:58:30,959 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:58:30,961 [INFO] dna_complement: input length 4
+2025-09-26 15:58:30,961 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:58:30,961 [INFO] reverse_complement_dna: output length=4
+2025-09-26 15:58:33,376 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 15:58:33,377 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 15:58:33,377 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 15:58:33,377 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 15:58:33,377 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 15:58:33,377 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 15:58:33,377 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 15:58:33,378 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 15:58:33,378 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 15:58:33,378 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 15:58:33,378 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 15:58:33,379 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 15:58:33,379 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 15:58:33,379 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 15:58:33,379 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 15:58:33,379 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 15:58:33,379 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 15:58:33,379 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 15:58:33,380 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 15:58:33,381 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 15:58:33,382 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 15:58:33,382 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 15:58:33,390 [INFO] dna_complement: input length 78
+2025-09-26 15:58:33,390 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 15:58:33,391 [INFO] reverse_complement_dna: output length=78
+2025-09-26 15:58:33,399 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:33,399 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:33,399 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 15:58:33,399 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 15:58:33,399 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:33,399 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 15:58:33,399 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 15:58:33,399 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:58:33,400 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 15:58:33,400 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 15:58:33,400 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 15:58:33,400 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:58:33,402 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:33,402 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:33,402 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:33,403 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 15:58:33,403 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 15:58:33,403 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 15:58:33,403 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 15:58:33,404 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 15:58:33,404 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 15:58:33,404 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 15:58:33,405 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 15:58:33,405 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 15:58:33,405 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 15:58:33,405 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 15:58:33,405 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 15:58:33,405 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 15:58:33,411 [INFO] dna_complement: input length 3
+2025-09-26 15:58:33,412 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 15:58:33,412 [INFO] reverse_complement_dna: output length=3
+2025-09-26 15:58:33,414 [INFO] dna_complement: input length 2
+2025-09-26 15:58:33,414 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 15:58:33,414 [INFO] reverse_complement_dna: output length=2
+2025-09-26 15:58:33,418 [INFO] dna_complement: input length 4
+2025-09-26 15:58:33,421 [INFO] dna_complement: input length 4
+2025-09-26 15:58:33,423 [INFO] dna_complement: input length 0
+2025-09-26 15:58:33,423 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 15:58:33,425 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:58:33,428 [INFO] dna_complement: input length 4
+2025-09-26 15:58:33,428 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 15:58:33,429 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:01:32,855 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:01:32,860 [INFO] dna_complement: input length 78
+2025-09-26 16:01:32,860 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:01:32,862 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:01:32,867 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:01:32,868 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:01:32,868 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:01:32,868 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:01:32,868 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:01:32,868 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:01:32,868 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:01:32,868 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:01:32,869 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:01:32,869 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:01:32,876 [INFO] dna_complement: input length 3
+2025-09-26 16:01:32,876 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:01:32,876 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:01:32,876 [INFO] dna_complement: input length 2
+2025-09-26 16:01:32,876 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:01:32,876 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:32,876 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:32,876 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:01:32,876 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:01:32,876 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:01:32,884 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:32,884 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:32,884 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:01:32,886 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:32,886 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:01:32,886 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:01:32,886 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:01:32,886 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:01:32,886 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:01:32,887 [INFO] dna_complement: input length 4
+2025-09-26 16:01:32,888 [INFO] dna_complement: input length 4
+2025-09-26 16:01:32,888 [INFO] dna_complement: input length 0
+2025-09-26 16:01:32,888 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:01:32,888 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:01:32,888 [INFO] dna_complement: input length 4
+2025-09-26 16:01:32,888 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:01:32,888 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:01:34,777 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:01:34,785 [INFO] dna_complement: input length 78
+2025-09-26 16:01:34,786 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:01:34,787 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:01:34,789 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:01:34,789 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:01:34,789 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:01:34,789 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:01:34,789 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:01:34,789 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:01:34,789 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:01:34,793 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:01:34,794 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:01:34,794 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:01:34,799 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:01:34,806 [INFO] dna_complement: input length 3
+2025-09-26 16:01:34,806 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:01:34,806 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:01:34,807 [INFO] dna_complement: input length 2
+2025-09-26 16:01:34,807 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:01:34,807 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:01:34,810 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:34,810 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:34,810 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:01:34,810 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:01:34,810 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:34,810 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:01:34,810 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:01:34,810 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:01:34,810 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:01:34,811 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:01:34,811 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:01:34,811 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:01:34,812 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:34,812 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:34,812 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:34,813 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:01:34,813 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:01:34,813 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:01:34,813 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:01:34,814 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:01:34,815 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:01:34,815 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:01:34,815 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:01:34,815 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:01:34,815 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:01:34,815 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:01:34,815 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:01:34,815 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:01:34,818 [INFO] dna_complement: input length 4
+2025-09-26 16:01:34,820 [INFO] dna_complement: input length 4
+2025-09-26 16:01:34,821 [INFO] dna_complement: input length 0
+2025-09-26 16:01:34,822 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:01:34,823 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:01:34,824 [INFO] dna_complement: input length 4
+2025-09-26 16:01:34,824 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:01:34,824 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:02:47,816 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:02:47,816 [INFO] dna_complement: input length 78
+2025-09-26 16:02:47,816 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:02:47,816 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:02:47,816 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:02:47,816 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:02:47,816 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:02:47,816 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:02:47,816 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:02:47,816 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:02:47,816 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:02:47,832 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:02:47,833 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:02:47,838 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:02:47,838 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:02:47,838 [INFO] dna_complement: input length 3
+2025-09-26 16:02:47,838 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:02:47,838 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:02:47,846 [INFO] dna_complement: input length 2
+2025-09-26 16:02:47,846 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:02:47,846 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:02:47,849 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:47,849 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:47,849 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:02:47,849 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:02:47,849 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:47,849 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:02:47,849 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:02:47,849 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:47,849 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:02:47,849 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:02:47,849 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:02:47,849 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:47,850 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:47,850 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:47,851 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:47,851 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:02:47,851 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:02:47,851 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:02:47,851 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:02:47,852 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:47,852 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:47,852 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:02:47,852 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:47,852 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:02:47,852 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:47,852 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:02:47,852 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:02:47,852 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:47,854 [INFO] dna_complement: input length 4
+2025-09-26 16:02:47,854 [INFO] dna_complement: input length 4
+2025-09-26 16:02:47,854 [INFO] dna_complement: input length 0
+2025-09-26 16:02:47,854 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:02:47,859 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:47,860 [INFO] dna_complement: input length 4
+2025-09-26 16:02:47,860 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:47,860 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:02:49,058 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:02:49,061 [INFO] dna_complement: input length 78
+2025-09-26 16:02:49,061 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:02:49,061 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:02:49,061 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:02:49,061 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:02:49,061 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:02:49,061 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:02:49,061 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:02:49,061 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:02:49,061 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:02:49,071 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:02:49,071 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:02:49,079 [INFO] dna_complement: input length 3
+2025-09-26 16:02:49,079 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:02:49,079 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:02:49,080 [INFO] dna_complement: input length 2
+2025-09-26 16:02:49,080 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:02:49,080 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:02:49,082 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:49,082 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:49,082 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:02:49,082 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:02:49,082 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:49,082 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:02:49,082 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:02:49,082 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:49,082 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:02:49,082 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:02:49,083 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:02:49,083 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:49,083 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:49,084 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:49,084 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:49,084 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:02:49,084 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:02:49,084 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:02:49,084 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:02:49,084 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:49,084 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:49,084 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:02:49,084 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:49,084 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:02:49,084 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:49,084 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:02:49,084 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:02:49,084 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:49,088 [INFO] dna_complement: input length 4
+2025-09-26 16:02:49,089 [INFO] dna_complement: input length 4
+2025-09-26 16:02:49,091 [INFO] dna_complement: input length 0
+2025-09-26 16:02:49,091 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:02:49,092 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:49,093 [INFO] dna_complement: input length 4
+2025-09-26 16:02:49,093 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:49,094 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:02:50,330 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:02:50,339 [INFO] dna_complement: input length 78
+2025-09-26 16:02:50,340 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:02:50,340 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:02:50,340 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:02:50,340 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:02:50,340 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:02:50,340 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:02:50,340 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:02:50,340 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:02:50,340 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:02:50,355 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:02:50,357 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:02:50,361 [INFO] dna_complement: input length 3
+2025-09-26 16:02:50,362 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:02:50,362 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:02:50,363 [INFO] dna_complement: input length 2
+2025-09-26 16:02:50,363 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:02:50,364 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:02:50,366 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:50,366 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:50,366 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:02:50,366 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:02:50,366 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:50,366 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:02:50,366 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:02:50,366 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:50,366 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:02:50,366 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:02:50,366 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:02:50,368 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:50,369 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:50,369 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:50,369 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:50,369 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:02:50,370 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:02:50,370 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:02:50,370 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:02:50,371 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:02:50,371 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:02:50,372 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:02:50,372 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:02:50,372 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:02:50,372 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:02:50,372 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:02:50,372 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:02:50,372 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:02:50,374 [INFO] dna_complement: input length 4
+2025-09-26 16:02:50,375 [INFO] dna_complement: input length 4
+2025-09-26 16:02:50,375 [INFO] dna_complement: input length 0
+2025-09-26 16:02:50,375 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:02:50,375 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:50,375 [INFO] dna_complement: input length 4
+2025-09-26 16:02:50,375 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:02:50,375 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:03:09,513 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:03:09,517 [INFO] dna_complement: input length 78
+2025-09-26 16:03:09,517 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:03:09,519 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:03:09,520 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:03:09,520 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:03:09,520 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:03:09,520 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:03:09,520 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:03:09,520 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:03:09,520 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:03:09,520 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:03:09,520 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:03:09,520 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-26 16:03:09,533 [INFO] dna_complement: input length 3
+2025-09-26 16:03:09,533 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:03:09,533 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:03:09,534 [INFO] dna_complement: input length 2
+2025-09-26 16:03:09,535 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:03:09,535 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:03:09,536 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:09,536 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:03:09,536 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:03:09,536 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:03:09,542 [INFO] dna_complement: input length 4
+2025-09-26 16:03:09,545 [INFO] dna_complement: input length 4
+2025-09-26 16:03:09,546 [INFO] dna_complement: input length 0
+2025-09-26 16:03:09,546 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:03:09,547 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:03:09,548 [INFO] dna_complement: input length 4
+2025-09-26 16:03:09,548 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:03:09,548 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:03:11,586 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:03:11,603 [INFO] dna_complement: input length 78
+2025-09-26 16:03:11,603 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:03:11,603 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:03:11,603 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:03:11,603 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:03:11,603 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:03:11,603 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:03:11,603 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:03:11,603 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:03:11,603 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:03:11,619 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:03:11,619 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:03:11,619 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-26 16:03:11,629 [INFO] dna_complement: input length 3
+2025-09-26 16:03:11,629 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:03:11,629 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:03:11,631 [INFO] dna_complement: input length 2
+2025-09-26 16:03:11,631 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:03:11,631 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:03:11,633 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:11,633 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:11,633 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:03:11,633 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:03:11,633 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:11,633 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:03:11,633 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:03:11,633 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:03:11,633 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:03:11,633 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:03:11,633 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:03:11,633 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:03:11,635 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:11,635 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:11,635 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:11,635 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:03:11,635 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:03:11,635 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:03:11,635 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:03:11,637 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:03:11,637 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:03:11,637 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:03:11,638 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:03:11,638 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:03:11,638 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:03:11,638 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:03:11,638 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:03:11,638 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:03:11,642 [INFO] dna_complement: input length 4
+2025-09-26 16:03:11,642 [INFO] dna_complement: input length 4
+2025-09-26 16:03:11,642 [INFO] dna_complement: input length 0
+2025-09-26 16:03:11,642 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:03:11,642 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:03:11,642 [INFO] dna_complement: input length 4
+2025-09-26 16:03:11,642 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:03:11,642 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:04:19,851 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:04:19,856 [INFO] dna_complement: input length 78
+2025-09-26 16:04:19,857 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:04:19,859 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:04:19,861 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:04:19,861 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:04:19,861 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:04:19,861 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:04:19,861 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:04:19,861 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:04:19,862 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:04:19,863 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:04:19,867 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:04:19,869 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:04:19,870 [INFO] The GC content of the given DNA sequence: ATGG is 50.0%
+2025-09-26 16:04:19,920 [INFO] dna_complement: input length 3
+2025-09-26 16:04:19,920 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:04:19,921 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:04:19,922 [INFO] dna_complement: input length 2
+2025-09-26 16:04:19,922 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:04:19,922 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:04:19,924 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:04:19,924 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:04:19,924 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:04:19,924 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:04:19,924 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:04:19,924 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:04:19,924 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:04:19,924 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:04:19,924 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:04:19,924 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:04:19,924 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:04:19,924 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:04:19,926 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:04:19,926 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:04:19,926 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:04:19,926 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:04:19,926 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:04:19,926 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:04:19,926 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:04:19,927 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:04:19,928 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:04:19,928 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:04:19,928 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:04:19,928 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:04:19,928 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:04:19,928 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:04:19,928 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:04:19,928 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:04:19,930 [INFO] dna_complement: input length 4
+2025-09-26 16:04:19,931 [INFO] dna_complement: input length 4
+2025-09-26 16:04:19,933 [INFO] dna_complement: input length 0
+2025-09-26 16:04:19,933 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:04:19,934 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:04:19,935 [INFO] dna_complement: input length 4
+2025-09-26 16:04:19,936 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:04:19,936 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:07:55,168 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:07:55,171 [INFO] dna_complement: input length 78
+2025-09-26 16:07:55,171 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:07:55,171 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:07:55,171 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:07:55,171 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:07:55,171 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:07:55,171 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:07:55,171 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:07:55,171 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:07:55,171 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:07:55,171 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:07:55,184 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:07:55,185 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-26 16:07:55,189 [INFO] dna_complement: input length 3
+2025-09-26 16:07:55,189 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:07:55,189 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:07:55,190 [INFO] dna_complement: input length 2
+2025-09-26 16:07:55,190 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:07:55,190 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:07:55,192 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:55,192 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:55,192 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:07:55,192 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:07:55,192 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:55,192 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:07:55,192 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:07:55,192 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:07:55,192 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:07:55,192 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:07:55,192 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:07:55,192 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:07:55,194 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:55,194 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:55,194 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:55,194 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:07:55,194 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:07:55,194 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:07:55,194 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:07:55,194 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:55,194 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:55,194 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:07:55,194 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:55,194 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:07:55,194 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:07:55,194 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:07:55,194 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:07:55,194 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:07:55,200 [INFO] dna_complement: input length 4
+2025-09-26 16:07:55,201 [INFO] dna_complement: input length 4
+2025-09-26 16:07:55,203 [INFO] dna_complement: input length 0
+2025-09-26 16:07:55,203 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:07:55,205 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:07:55,206 [INFO] dna_complement: input length 4
+2025-09-26 16:07:55,206 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:07:55,206 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:07:56,863 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:07:56,870 [INFO] dna_complement: input length 78
+2025-09-26 16:07:56,871 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:07:56,874 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:07:56,877 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:07:56,877 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:07:56,877 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:07:56,877 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:07:56,877 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:07:56,877 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:07:56,877 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:07:56,878 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:07:56,878 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:07:56,878 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:07:56,878 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:07:56,879 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:07:56,886 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:07:56,888 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:07:56,891 [ERROR] DNA sequence contained ambiguous characters, not equal to ATCG
+2025-09-26 16:07:56,896 [INFO] dna_complement: input length 3
+2025-09-26 16:07:56,897 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:07:56,897 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:07:56,898 [INFO] dna_complement: input length 2
+2025-09-26 16:07:56,898 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:07:56,899 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:07:56,900 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:56,900 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:56,900 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:07:56,900 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:07:56,900 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:56,900 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:07:56,900 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:07:56,900 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:07:56,903 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:07:56,903 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:07:56,903 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:07:56,903 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:07:56,904 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:56,904 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:56,905 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:56,905 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:07:56,905 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:07:56,905 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:07:56,905 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:07:56,906 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:07:56,906 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:07:56,906 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:07:56,906 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:07:56,907 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:07:56,907 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:07:56,907 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:07:56,907 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:07:56,907 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:07:56,909 [INFO] dna_complement: input length 4
+2025-09-26 16:07:56,910 [INFO] dna_complement: input length 4
+2025-09-26 16:07:56,911 [INFO] dna_complement: input length 0
+2025-09-26 16:07:56,912 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:07:56,913 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:07:56,914 [INFO] dna_complement: input length 4
+2025-09-26 16:07:56,914 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:07:56,914 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:09:59,728 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:09:59,733 [INFO] dna_complement: input length 78
+2025-09-26 16:09:59,733 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:09:59,735 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:09:59,737 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:09:59,737 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:09:59,737 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:09:59,737 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:09:59,737 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:09:59,737 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:09:59,738 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:09:59,738 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:09:59,738 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:09:59,739 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:09:59,740 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:09:59,740 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:09:59,740 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:09:59,740 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:09:59,750 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:09:59,751 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:09:59,752 [INFO] dna_complement: input length 3
+2025-09-26 16:09:59,752 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:09:59,752 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:09:59,752 [INFO] dna_complement: input length 2
+2025-09-26 16:09:59,756 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:09:59,756 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:09:59,757 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:09:59,758 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:09:59,758 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:09:59,758 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:09:59,758 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:09:59,758 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:09:59,758 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:09:59,758 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:09:59,758 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:09:59,758 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:09:59,758 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:09:59,758 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:09:59,759 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:09:59,760 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:09:59,760 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:09:59,760 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:09:59,760 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:09:59,760 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:09:59,760 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:09:59,761 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:09:59,761 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:09:59,761 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:09:59,761 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:09:59,761 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:09:59,761 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:09:59,761 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:09:59,761 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:09:59,761 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:09:59,762 [INFO] dna_complement: input length 4
+2025-09-26 16:09:59,765 [INFO] dna_complement: input length 4
+2025-09-26 16:09:59,766 [INFO] dna_complement: input length 0
+2025-09-26 16:09:59,766 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:09:59,768 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:09:59,769 [INFO] dna_complement: input length 4
+2025-09-26 16:09:59,769 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:09:59,769 [INFO] reverse_complement_dna: output length=4
+2025-09-26 16:10:03,064 [INFO] The GC content of the given DNA sequence: gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac is 51.72%
+2025-09-26 16:10:03,075 [INFO] dna_complement: input length 78
+2025-09-26 16:10:03,075 [INFO] reverse_dna: stripped whitespace, length=78
+2025-09-26 16:10:03,075 [INFO] reverse_complement_dna: output length=78
+2025-09-26 16:10:03,075 [INFO] The mononucleotide count of the given dna sequence is a: 13
+2025-09-26 16:10:03,075 [INFO] The mononucleotide count of the given dna sequence is g: 28
+2025-09-26 16:10:03,075 [INFO] The mononucleotide count of the given dna sequence is t: 7
+2025-09-26 16:10:03,075 [INFO] The mononucleotide count of the given dna sequence is c: 9
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ag: 4
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is gg: 21
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ga: 3
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is gt: 1
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ta: 2
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is aa: 4
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is gc: 2
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is cc: 4
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ct: 2
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is tt: 2
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is tg: 3
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ca: 3
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is ac: 3
+2025-09-26 16:10:03,075 [INFO] The dinucleotide count of the given dna sequence is at: 2
+2025-09-26 16:10:03,075 [WARNING] Sequence has 1 leftover base(s) that does not form a complete dinucleotide
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is agg: 2
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gga: 2
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gag: 2
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is agt: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gta: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is taa: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is aag: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is agc: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gcc: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ccc: 2
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is cct: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ctt: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ttg: 2
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is tgc: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gca: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is caa: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is aac: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is act: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ctg: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is tgg: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is gaa: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is aaa: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is aat: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ata: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is tac: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is aca: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is cac: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is acc: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is cca: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is cat: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is att: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is tga: 1
+2025-09-26 16:10:03,075 [INFO] The trinucleotide count of the given dna sequence is ggg: 18
+2025-09-26 16:10:03,091 [INFO] The GC content of the given DNA sequence: ATGC is 50.0%
+2025-09-26 16:10:03,091 [INFO] The GC content of the given DNA sequence: ATATAT is 0.0%
+2025-09-26 16:10:03,102 [INFO] dna_complement: input length 3
+2025-09-26 16:10:03,102 [INFO] reverse_dna: stripped whitespace, length=3
+2025-09-26 16:10:03,103 [INFO] reverse_complement_dna: output length=3
+2025-09-26 16:10:03,104 [INFO] dna_complement: input length 2
+2025-09-26 16:10:03,104 [INFO] reverse_dna: stripped whitespace, length=2
+2025-09-26 16:10:03,104 [INFO] reverse_complement_dna: output length=2
+2025-09-26 16:10:03,107 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:10:03,107 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:10:03,108 [INFO] The mononucleotide count of the given dna sequence is C: 1
+2025-09-26 16:10:03,108 [INFO] The mononucleotide count of the given dna sequence is G: 1
+2025-09-26 16:10:03,108 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:10:03,108 [INFO] The dinucleotide count of the given dna sequence is TC: 1
+2025-09-26 16:10:03,108 [INFO] The dinucleotide count of the given dna sequence is CG: 1
+2025-09-26 16:10:03,108 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:10:03,108 [INFO] The trinucleotide count of the given dna sequence is ATC: 1
+2025-09-26 16:10:03,108 [INFO] The trinucleotide count of the given dna sequence is TCG: 1
+2025-09-26 16:10:03,108 [INFO] The trinucleotide count of the given dna sequence is CGA: 1
+2025-09-26 16:10:03,108 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:10:03,110 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:10:03,111 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:10:03,111 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:10:03,111 [INFO] The dinucleotide count of the given dna sequence is TA: 1
+2025-09-26 16:10:03,111 [INFO] The trinucleotide count of the given dna sequence is ATA: 1
+2025-09-26 16:10:03,111 [INFO] The trinucleotide count of the given dna sequence is TAT: 1
+2025-09-26 16:10:03,111 [WARNING] Sequence has 1 leftover base(s) that does not form a complete trinucleotide
+2025-09-26 16:10:03,113 [INFO] The mononucleotide count of the given dna sequence is A: 2
+2025-09-26 16:10:03,113 [INFO] The mononucleotide count of the given dna sequence is T: 2
+2025-09-26 16:10:03,113 [INFO] The mononucleotide count of the given dna sequence is G: 2
+2025-09-26 16:10:03,113 [INFO] The dinucleotide count of the given dna sequence is AT: 2
+2025-09-26 16:10:03,113 [INFO] The dinucleotide count of the given dna sequence is TG: 2
+2025-09-26 16:10:03,113 [INFO] The dinucleotide count of the given dna sequence is GA: 1
+2025-09-26 16:10:03,113 [INFO] The trinucleotide count of the given dna sequence is ATG: 2
+2025-09-26 16:10:03,113 [INFO] The trinucleotide count of the given dna sequence is TGA: 1
+2025-09-26 16:10:03,113 [INFO] The trinucleotide count of the given dna sequence is GAT: 1
+2025-09-26 16:10:03,113 [INFO] dna_complement: input length 4
+2025-09-26 16:10:03,118 [INFO] dna_complement: input length 4
+2025-09-26 16:10:03,119 [INFO] dna_complement: input length 0
+2025-09-26 16:10:03,119 [WARNING] dna_complement: received empty or invalid sequence
+2025-09-26 16:10:03,121 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:10:03,122 [INFO] dna_complement: input length 4
+2025-09-26 16:10:03,122 [INFO] reverse_dna: stripped whitespace, length=4
+2025-09-26 16:10:03,122 [INFO] reverse_complement_dna: output length=4

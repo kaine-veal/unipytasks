@@ -1,34 +1,24 @@
 [project]
 name = "pythontasks"
-version = "0.0.1"
+version = "1.0.0"
 description = "Toolkit that manipulates DNA (and other) sequences"
-license = {file = "LICENSE.txt"}
-authors = [{name = "test", email = "admin@test.org"}]
 readme = "README.md"
-keywords = [
-    "bioinformatics",
-    "DNA Sequence",
+requires-python = ">=3.12"
+authors = [
+  { name = "test", email = "admin@test.org" }
 ]
-requires-python = ">=3.12.10"
-
 classifiers = [
-    "Development Status :: 5 - Production/Stable",
-    "Intended Audience :: Developers",
-    "Topic :: Software Development :: Build Tools",
-    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
-    "Programming Language :: Python :: 3.12.10"
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Topic :: Bioinformatics",
+  "Programming Language :: Python :: 3.12"
 ]
-
-# Dynamically load dependencies
-[tool.setuptools.dynamic]
-dependencies = {file = ["requirements.txt"]}
-
-[tool.setuptools_scm]
+dependencies = []
 
 [tool.setuptools.packages.find]
-where = ["."]  # Look for packages in the 'root' directory
+where = ["."]
 include = ["pythontasks*"]
 
 [build-system]
-requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2", "wheel"]
+requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"

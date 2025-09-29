@@ -17,6 +17,8 @@ CATCTGTCTGGAGTTGATCAAGGAACCTGTCTCCACAAAGTGTGACCACATATTTTGCAAATTTTGCATGCTGA
 AACTTCTCAACCAGAAGAAAGGGCCTTCACAGTGTCCTTTATGTAAGAATGATATAACCAAA
 '''
 
+from pythontasks.utils.logger import logger
+
 def translate_dna_to_AAseq(dna_sequence):
     codon_table = {
         'TTT': 'F', 'TTC': 'F', 'TTA': 'L', 'TTG': 'L',
@@ -44,20 +46,22 @@ def translate_dna_to_AAseq(dna_sequence):
     for position in range(0, len(dna_sequence), 3): # Iterate over filtered DNA in steps of 3 to read each codon
         codon = dna_sequence[position:position + 3] # Slices out a 3-base codon
         if len(codon) < 3: # If a partial codon is reached at the end of the DNA string, stop and print remainder
-            print(f"Remaining codon incomplete: {codon}")
+            logger.debug(f"Remaining codon incomplete: {codon}")
             break
 
         # Translate codon to corresponding amino acid
-        amino_acid = codon_table(codon)
+        amino_acid = codon_table.get(codon, "X")
 
         # If a stop codon is hit, end translation and dont include '*'
         if amino_acid == "*":
-            print(f"Stop codon reached at position {position}: {codon}")
-            break
+            logger.debug(f"Stop codon reached at position {position}: {codon}")
+            protein += "*"
+            continue 
 
         protein += amino_acid # Append the translated amino acid to the growing protein string
 
-    return "".join(protein) # Returns and stores the result so calling code can use it
+    return protein # Returns and stores the result so calling code can use it
+
 
 
 '''
