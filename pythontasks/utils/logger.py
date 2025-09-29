@@ -30,7 +30,7 @@ def create_logger():
     file_handler = RotatingFileHandler(str(parent_directory) + '/logs/seq_logger.log',
                                        maxBytes=500000,
                                        backupCount=2)
-    file_handler.setLevel(logging.ERROR) # Only write ERROR and CRITICAL to logs/seq_logger.log to avoid filling disk with DEBUG/INFO/WARNING
+    file_handler.setLevel(logging.INFO) # Only write ERROR and CRITICAL to logs/seq_logger.log to avoid filling disk with DEBUG/INFO/WARNING # Update 19/09, changed to INFO to view GC content from module
     file_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s") # Same formatting as stream handler
     file_handler.setFormatter(file_formatter) # Apply the above format to the file handler
 
