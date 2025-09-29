@@ -1,2 +1,2 @@
 # unipytasks
-Repository to practice project setup and to work on python tasks in preparation for software engineering module 2025
+Toolkit to practice project setup and work on Python tasks in preparation for the Software Engineering module (2025).
