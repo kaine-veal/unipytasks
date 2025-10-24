@@ -38,7 +38,7 @@ jobs:
           pytest --cov --junitxml=junit.xml -o junit_family=legacy
           pytest -q --cov=./
           pytest -q --cov=pythontasks/modules
-          pytest -q --cov=tests
+          #pytest -q --cov=tests
           
       - name: Upload results to Codecov
         uses: codecov/codecov-action@v5
