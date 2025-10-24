@@ -39,8 +39,11 @@ def dna_complement(dna_sequence):
 
 
 def reverse_dna(dna_sequence):
-   '''This function reverses a DNA sequence. Instad of prompting user input,
-      it takes a DNA sequence as an argument, so that the function can be reused in other modules.'''
+   """
+   This function reverses a DNA sequence. Instad of prompting user input,
+   it takes a DNA sequence as an argument, so that the function can be reused in other modules.
+   """
+
    dna_sequence = "".join(character for character in dna_sequence.upper() if character in "ATCG") # Strips whitespace and only includes characters ATCG and ensures all uppercase
    logger.info("reverse_dna: stripped whitespace, length=%d", len(dna_sequence)) # INFO will display the length of the dna_sequence after whitespace removal
    
@@ -55,7 +58,9 @@ def reverse_dna(dna_sequence):
 
   
 def reverse_complement_dna(dna_sequence):
-    '''This function returns a reverse complement DNA sequence by utilising the 2 above functions 'dna_complement' and 'reverse_dna' '''
+    """
+    This function returns a reverse complement DNA sequence by utilising the 2 above functions 'dna_complement' and 'reverse_dna' 
+    """
 
     # First complement (already cleans + uppercases)
     complemented = dna_complement(dna_sequence).replace("\n", "") # Removes line breaks as dna_complement wraps at 60 characters
@@ -68,6 +73,7 @@ def reverse_complement_dna(dna_sequence):
     return "\n".join(textwrap.wrap(reverse_complemented, 60)) # Wrap the reverse complemented string back into 60-character lines for readability
 
 
+  
 
 
    

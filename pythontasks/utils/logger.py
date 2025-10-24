@@ -22,7 +22,7 @@ def create_logger():
 
     # Creates a stream handler
     stream_handler = logging.StreamHandler() # Creates a streamhandler to print to console
-    stream_handler.setLevel(logging.DEBUG) # Only handle messages DEBUG or higher
+    stream_handler.setLevel(logging.FATAL) # Only handle messages DEBUG or higher
     stream_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s") # This defines how log messages should look on the console
     stream_handler.setFormatter(stream_formatter) # Apply the above format to the stream handler
 
@@ -30,13 +30,13 @@ def create_logger():
     file_handler = RotatingFileHandler(str(parent_directory) + '/logs/seq_logger.log',
                                        maxBytes=500000,
                                        backupCount=2)
-    file_handler.setLevel(logging.INFO) # Only write ERROR and CRITICAL to logs/seq_logger.log to avoid filling disk with DEBUG/INFO/WARNING # Update 19/09, changed to INFO to view GC content from module
+    file_handler.setLevel(logging.ERROR) # Only write ERROR and CRITICAL to logs/seq_logger.log to avoid filling disk with DEBUG/INFO/WARNING # Update 19/09, changed to INFO to view GC content from module
     file_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s") # Same formatting as stream handler
     file_handler.setFormatter(file_formatter) # Apply the above format to the file handler
 
     # Attach both handlers to the logger
     logger.addHandler(stream_handler)
-    logger.addHandler(file_handler)
+    logger.addHandler(file_handler) 
 
     return logger
 

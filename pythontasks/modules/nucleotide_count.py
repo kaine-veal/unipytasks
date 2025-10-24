@@ -23,7 +23,9 @@ from pythontasks.utils.logger import logger
 
 
 def nucleotide_count(dna_sequence):
-    """This function counts mono, di and tri-nucleotides in a DNA sequence"""
+    """
+    This function counts mono, di and tri-nucleotides in a DNA sequence
+    """
 
     mononucleotide_count = {} # Initiates an empty dictionary to hold mononucleotide counts
     for character in dna_sequence: # Iterates over each character in the input sequence
@@ -69,3 +71,4 @@ def nucleotide_count(dna_sequence):
     
     
     return mononucleotide_count, dinucleotide_count, trinucleotide_count # Returns a tuple of 3 dicts
+

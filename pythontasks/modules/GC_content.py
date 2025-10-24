@@ -46,6 +46,3 @@ def calculate_gc_content(dna_sequence):
     # Log the result
     logger.info(f"The GC content of the given DNA sequence: {dna_sequence} is {gc_percentage}%")
     return f"{gc_percentage}%"
-
-
-result = calculate_gc_content('gatagcgcatcgttactgatgtgtacgacgatcatcgactgagctacgaccacaccac') # Test to check function works

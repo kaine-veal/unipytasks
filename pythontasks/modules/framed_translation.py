@@ -29,7 +29,9 @@ from pythontasks.modules.translate_dna import translate_dna_to_AAseq
 from pythontasks.modules.reverse_complement import reverse_complement_dna   
 
 def six_frame_translation(dna_sequence):
-    """Generates the six-frame translation from 5'-3' and reverse complement from 3'-5'"""
+    """
+    Generates the six-frame translation from 5'-3' and reverse complement from 3'-5'
+    """
 
     translations = {"Forward": [], "Reverse": []}
 
@@ -60,8 +62,3 @@ def six_frame_translation(dna_sequence):
         formatted_output.append(f"{frame_number} {protein_sequence}") # Format the frame number and protein sequence into one string
 
     return "\n".join(formatted_output) # # combine all entries in the list into one string, placing each entry on its own line
-
-    
-# Test to check function works
-dna_sequence = ("GCTGAGACTTCCTGGACGGGGGACAGGCTGTGGGGTTTCTCAGATAACTGGGCCCCTGCGCTCAGGAGGCCTTCACCC")
-print(six_frame_translation(dna_sequence))
